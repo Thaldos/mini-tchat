@@ -1,0 +1,12 @@
+	Bonjour et merci d'avoir téléchargé cette application pour le cours PHP/MySQL.
+	
+	I. Installation :
+	- Placez le fichier "mini_chat" dans le repertoire www d'un serveur local comme Wampp.
+	- Accéder à PHPMyAdmin et créez la base de donnée "mini_chat".
+	- Dans cette base de donnée, importez le fichier "minichat.sql" par la fonction d'import de PHPMyAdmin.
+	
+	II. Fonctionnement :
+	- Accédez au dossier "mini_chat" depuis le localhost sur un navigateur.
+	- Testez l'application.
+	
+	Merci
