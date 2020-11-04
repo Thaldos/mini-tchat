@@ -34,7 +34,7 @@ catch(Exception $e){
                <div class="row justify-content-center">
                    <div class="col-2 text-center my-5">
                        <h1 class="h3">Mini-tchat<br>
-                       <span class="d-block font-content sous-titre orange">OpenClassrooms</span>
+                       <span class="d-block font-content sous-titre bleu">OpenClassrooms</span>
                        </h1>
                    </div>
                </div>
